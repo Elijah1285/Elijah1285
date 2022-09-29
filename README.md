@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently learning Games Technology at UWE Bristol
 <!--
 **Elijah1285/Elijah1285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
